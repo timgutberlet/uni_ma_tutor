@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "792040744104",
+    "project_id": "unimatutor-587ec",
+    "storage_bucket": "unimatutor-587ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792040744104:android:d021b9c84dea6defb84e9d",
+        "android_client_info": {
+          "package_name": "com.unimatutor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792040744104-ujqf5fsoleounaka2h0o67bgh3fq5so0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0iwz-d79PFitqb185KMitK6Y9lD3-Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792040744104-ujqf5fsoleounaka2h0o67bgh3fq5so0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792040744104-qnp11tqrn871nijlq8ku2jo2d9gqbdf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unimatutor.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
